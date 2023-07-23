@@ -1,0 +1,250 @@
+FID,COUNTRY,País
+1,American Samoa,Samoa Americana
+2,United States Minor Outlying Islands,
+3,Cook Islands,Islas Cook
+4,French Polynesia,Polinesia francesa
+5,Niue,Niue
+6,Pitcairn,Islas Pitcairn
+7,Samoa,Samoa
+8,Tokelau,Tokelau
+9,Tonga,Tonga
+10,Wallis and Futuna,
+11,El Salvador,El Salvador
+12,Guatemala,Guatemala
+13,Mexico,México
+14,Canada,Canadá
+15,Argentina,Argentina
+16,Falkland Islands,Islas Malvinas
+17,Chile,Chile
+18,Ecuador,Ecuador
+19,Peru,Perú
+20,Bolivia,Bolivia
+21,Brazil,Brasil
+22,Paraguay,Paraguay
+23,Uruguay,Uruguay
+24,South Georgia and South Sandwich Islands,Islas Georgias del Sur y Sandwich del Sur
+25,Antarctica,
+26,Fiji,Fiyi
+27,Saint Helena,Santa Helena
+28,Anguilla,Anguilla
+29,Antigua and Barbuda,Antigua y Barbuda
+30,Aruba,Aruba
+31,Bahamas,Bahamas
+32,Barbados,Barbados
+33,Belize,Belize
+34,Bermuda,Bermuda
+35,Bonaire,
+36,British Virgin Islands,Islas Vírgenes Británicas
+37,Cayman Islands,Islas Caimán
+38,Colombia,Colombia
+39,Costa Rica,Costa Rica
+40,Cuba,Cuba
+41,Curacao,Curaçao
+42,Dominica,Dominica
+43,Dominican Republic,República Dominicana
+44,French Guiana,Guayana francesa
+45,Grenada,Granada
+46,Guadeloupe,Guadalupe
+47,Guyana,Guyana
+48,Haiti,Haití
+49,Honduras,Honduras
+50,Jamaica,Jamaica
+51,Martinique,Martinica
+52,Montserrat,Montserrat
+53,Nicaragua,Nicaragua
+54,Panama,Panamá
+55,Puerto Rico,Puerto Rico
+56,Saba,
+57,Saint Barthelemy,San Bartolomé
+58,Saint Eustatius,San Eustaquio
+59,Saint Kitts and Nevis,San Cristóbal y Nevis (Saint Kitts y Nevis)
+60,Saint Lucia,Santa Lucía
+61,Saint Martin,
+62,Saint Pierre and Miquelon,San Pedro y Miquelón
+63,Saint Vincent and the Grenadines,San Vicente y las Granadinas
+64,Sint Maarten,
+65,Suriname,Surinam
+66,Trinidad and Tobago,Trinidad y Tobago
+67,Turks and Caicos Islands,Islas Turcas y Caicos
+68,US Virgin Islands,
+69,Venezuela,Venezuela
+70,Burkina Faso,Burkina Faso
+71,Cabo Verde,Cabo Verde
+72,Côte d'Ivoire,Costa de Marfil
+73,Gambia,Gambia
+74,Ghana,Ghana
+75,Gibraltar,Gibraltar
+76,Guinea,Guinea
+77,Guinea-Bissau,Guinea-Bissau
+78,Liberia,Liberia
+79,Mali,Mali
+80,Mauritania,Mauritania
+81,Morocco,Marruecos
+82,Portugal,Portugal
+83,Senegal,Senegal
+84,Sierra Leone,Sierra Leona
+85,Greenland,Groenlandia
+86,Guernsey,Guernsey
+87,Ireland,Irlanda
+88,Isle of Man,Isla de Man
+89,Jersey,Jersey
+90,United Kingdom,Reino Unido
+91,Iceland,Islandia
+92,Faroe Islands,Islas Feroe
+93,Svalbard,Svalbard y Jan Mayen
+94,Bouvet Island,
+95,New Zealand,Nueva Zelanda
+96,Angola,Angola
+97,Botswana,Botswana
+98,Burundi,Burundi
+99,Comoros,Comoras
+100,Congo,"Congo, República (Brazzaville)"
+101,Congo DRC,"Congo, República Democrática (Kinshasa) – Zaire"
+102,Gabon,Gabón
+103,Kenya,Kenia
+104,Lesotho,Lesotho
+105,Malawi,Malawi
+106,Juan De Nova Island,
+107,Mozambique,Mozambique
+108,Namibia,Namibia
+109,Rwanda,Ruanda
+110,Sao Tome and Principe,Santo Tomé y Príncipe
+111,South Africa,Sudáfrica
+112,Eswatini,Eswatini (Swazilandia)
+113,Tanzania,Tanzania
+114,Zambia,Zambia
+115,Zimbabwe,Zimbawe
+116,British Indian Ocean Territory,Indias Occidentales Británicas
+117,French Southern Territories,
+118,Heard Island and McDonald Islands,
+119,Madagascar,Madagascar
+120,Mauritius,Mauricio
+121,Mayotte,Mayotte
+122,Glorioso Islands,
+123,Réunion,Reunión
+124,Seychelles,Seychelles
+125,Algeria,Argelia
+126,Benin,Benin
+127,Cameroon,Camerún
+128,Central African Republic,República Centroafricana
+129,Chad,Chad
+130,Equatorial Guinea,Guinea Ecuatorial
+131,Kiribati,Kiribati
+132,Libya,Libia
+133,Malta,Malta
+134,Niger,Níger
+135,Nigeria,Nigeria
+136,Togo,Togo
+137,Tunisia,Túnez
+138,Cyprus,Chipre
+139,Djibouti,Yibuti
+140,Egypt,Egipto
+141,Eritrea,Eritrea
+142,Ethiopia,Etiopía
+143,Greece,Grecia
+144,Iraq,Irak
+145,Israel,Israel
+146,Jordan,Jordania
+147,Lebanon,Líbano
+148,Palestinian Territory,
+149,South Sudan,Sudán del Sur
+150,Sudan,Sudán
+151,Syria,Siria
+152,Turkey,Turquía
+153,Uganda,Uganda
+154,Andorra,Andorra
+155,United States,Estados Unidos de América
+156,France,Francia
+157,Liechtenstein,Liechtenstein
+158,Monaco,Mónaco
+159,Switzerland,Suiza
+160,Belgium,Bélgica
+161,Germany,Alemania
+162,Luxembourg,Luxemburgo
+163,Netherlands,Países Bajos
+164,Albania,Albania
+165,Austria,Austria
+166,Bosnia and Herzegovina,Bosnia y Herzegovina
+167,Croatia,Croacia
+168,Czech Republic,República Checa
+169,Denmark,Dinamarca
+170,Hungary,Hungría
+171,Italy,Italia
+172,Montenegro,Montenegro
+173,Poland,Polonia
+174,San Marino,San Marino
+175,Serbia,Serbia
+176,Slovakia,Eslovaquia
+177,Slovenia,Eslovenia
+178,North Macedonia,Macedonia del Norte
+179,Vatican City,Ciudad del Vaticano
+180,Norway,Noruega
+181,Sweden,Suecia
+182,Belarus,Bielorrusia
+183,Bulgaria,Bulgaria
+184,Estonia,Estonia
+185,Finland,Finlandia
+186,Georgia,Georgia
+187,Latvia,Letonia
+188,Lithuania,Lituania
+189,Moldova,Moldavia
+190,Romania,Rumanía
+191,Ukraine,Ucrania
+192,Afghanistan,Afganistán
+193,Bahrain,Bahréin
+194,India,India
+195,Iran,Irán
+196,Kuwait,Kuwait
+197,Maldives,Maldivas
+198,Nepal,Nepal
+199,Oman,Omán
+200,Pakistan,Pakistán
+201,Qatar,Qatar
+202,Saudi Arabia,Arabia Saudí
+203,Somalia,Somalia
+204,Sri Lanka,Sri Lanka
+205,Tajikistan,Tayikistán
+206,Turkmenistan,Turkmenistán
+207,United Arab Emirates,Emiratos Árabes Unidos
+208,Yemen,"Yemen, República"
+209,Armenia,Armenia
+210,Azerbaijan,Azerbaiyán
+211,Kazakhstan,Kazajstán
+212,Kyrgyzstan,Kirguizistán
+213,Uzbekistan,Uzbekistán
+214,Christmas Island,
+215,Cocos Islands,Islas Cocos
+216,Indonesia,Indonesia
+217,Timor-Leste,Timor Oriental
+218,Australia,Australia
+219,Nauru,Nauru
+220,New Caledonia,Nueva Caledonia
+221,Norfolk Island,
+222,Papua New Guinea,Papúa Nueva Guinea
+223,Solomon Islands,Islas Salomón
+224,Tuvalu,Tuvalu
+225,Vanuatu,Vanuatu
+226,Cambodia,Camboya
+227,Laos,Laos
+228,Malaysia,Malasia
+229,Myanmar,Myanmar
+230,Singapore,Singapur
+231,Thailand,Tailandia
+232,Vietnam,Vietnam
+233,Bangladesh,Bangladés
+234,Bhutan,Bután
+235,China,China
+236,Brunei Darussalam,Brunei
+237,Philippines,Filipinas
+238,South Korea,Corea del Sur
+239,Mongolia,Mongolia
+240,North Korea,Corea del Norte
+241,Guam,
+242,Japan,Japón
+243,Marshall Islands,Islas Marshall
+244,Micronesia,"Micronesia, Estados Federados de"
+245,Northern Mariana Islands,Islas Marianas del Norte
+246,Palau,Palaos
+247,Russian Federation,Rusia
+248,Spain,España
+249,Canarias,

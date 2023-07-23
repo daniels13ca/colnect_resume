@@ -1,0 +1,67 @@
+/* Estilos generales para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f0f7fa;
+  }
+  
+  /* Estilos para los encabezados H1 */
+  h1 {
+    color: #0066cc;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Estilos para los encabezados H2 */
+  h2 {
+    color: #0099cc;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  /* Estilos para los encabezados H3 */
+  h3 {
+    color: #00bfff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para los encabezados H4 */
+  h4 {
+    color: #66ccff;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+
+/* Estilos para el componente map */
+.map-style {
+  width: 80%;
+  background-color: #f0f7fa;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilo para la tabla */
+#tabla {
+  border: 1px solid lightblue;
+}
+
+/* Estilo para el encabezado de la tabla */
+#tabla thead th {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  text-align: left; 
+}
+
+/* Estilo para las celdas de la tabla */
+#tabla tbody td {
+  background-color: white;
+  color: navy;
+  text-align: left; 
+}
